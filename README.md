@@ -13,7 +13,7 @@
 
 ### Some of my projects
 
-- [Dashbravo](https://github.com/rodolphoasb/dashbravo)
+- [Dashbravo (In development)](https://github.com/rodolphoasb/dashbravo)
 - [Solana GIF Portal (In development)](https://github.com/rodolphoasb/Gif-Portal-Solana)
 - [Mercado Rural](https://github.com/rodolphoasb/mercado-rural-site)
 - [Personal Blog](https://github.com/rodolphoasb/personal-blog)
