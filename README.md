@@ -7,17 +7,9 @@
 - React Native
 - Tailwind CSS / Sass / Styled Components
 - Jest/React Testing Library
-- Web3/Rust/Solana/Anchor
 
 <br />
 
-### Some of my projects
-
-- [Dashbravo (In development)](https://github.com/rodolphoasb/dashbravo)
-- [Solana GIF Portal (In development)](https://github.com/rodolphoasb/Gif-Portal-Solana)
-- [Mercado Rural](https://github.com/rodolphoasb/mercado-rural-site)
-- [Personal Blog](https://github.com/rodolphoasb/personal-blog)
-- [Crypto Dashboard](https://github.com/rodolphoasb/test-lunes)
 
 <br />
 
