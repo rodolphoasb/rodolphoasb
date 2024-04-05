@@ -1,8 +1,5 @@
 ### Hi, there! I'm Rodolpho 👋
 
-## What I'm currently learning and working with
+I'm a Product Engineer with an eye for design. I'm used to work on Full Stack roles using Typescript and I especially enjoy working on meaningful and difficult problems. 
 
-- Typescript
-- React/Next.js/Remix Run
-- React Native
-- Tailwind CSS
+You can know more about me and my work here: https://rbravo.dev/
